@@ -10,7 +10,7 @@ We use web scraping, natural language processing (NLP), and machine learning mod
 
 - **Web Scraping**
   - Instagram: [`Instaloader`](https://instaloader.github.io/)
-  - Twitter: [`Tweepy`](https://www.tweepy.org/) and [Twitter/X API](https://developer.x.com/en)
+  - Twitter: (<https://www.selenium.dev/documentation/ide/>)
 
 - **Machine Learning**
   - **Transformers**: For contextual analysis of captions, posts, and time series analysis ([Intro to Transformers](https://www.youtube.com/watch?v=wjZofJX0v4M))
